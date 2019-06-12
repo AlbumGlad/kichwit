@@ -1,2 +1,1 @@
 # kichwit
-permalink: /index.html
